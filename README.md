@@ -52,12 +52,6 @@ I have experience in:
 
 - **The Route Cause** 🚦  
   *Designed and tested backend APIs for traffic analysis experiments using Python, FastAPI, and system-level monitoring.*  
----
-
-## 📊 GitHub Stats  
-
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaniagrawat&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniagrawat&layout=compact&theme=tokyonight)  
 
 ---
 
