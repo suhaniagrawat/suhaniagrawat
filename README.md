@@ -36,5 +36,3 @@ I have experience in:
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhani-deepak-agrawat) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simplysuhani112@gmail.com)  
-
-Thanks for visiting my profile!
