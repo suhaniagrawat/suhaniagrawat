@@ -1,8 +1,6 @@
 # Hey, I'm Suhani Agrawat 👋  
 
-**B.Tech CSE | Aspiring Software Engineer | Tech Enthusiast | Problem Solver**  
-*"Turning ideas into code and code into solutions."*  
-
+**B.Tech CSE | Aspiring Software Engineer | Tech Enthusiast | Problem Solver**    
 ---
 
 ## 👩‍💻 About Me  
