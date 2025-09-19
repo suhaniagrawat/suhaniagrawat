@@ -8,11 +8,8 @@ I enjoy solving real-world problems with code, exploring new technologies, and w
 
 I have experience in:  
 - **Backend Development** – REST APIs, authentication, and databases  
-- **Problem Solving** – competitive programming and data structures & algorithms  
-- **Research & Projects** – exploring AI, data science, and system-level programming  
-
+- **Problem Solving** – competitive programming and data structures & algorithms   
 ---
-
 ## 🚀 Tech Stack  
 
 **Languages**  
@@ -30,12 +27,14 @@ I have experience in:
 
 - **EmBody** 🧠💪  
   *A mental health and physical injury recovery platform integrating CBT modules, symptom tracking, and health insights.*  
-  **Tech**: FastAPI, Supabase, Firebase Auth, React  
+  **Tech**: FastAPI, Supabase
 
 - **The Route Cause** 🚦  
-  *Designed and tested backend APIs for traffic analysis experiments using Python, FastAPI, and system-level monitoring.*  
+  *Designed and tested backend APIs for a smart traffic monitoring using Python, FastAPI and integrated frontend and backend using websockets.*  
 
 ---
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhani-deepak-agrawat) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simplysuhani112@gmail.com)  
+
+Thanks for visiting my profile!
