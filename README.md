@@ -56,7 +56,7 @@ I have experience in:
 
 ## 📊 GitHub Stats  
 
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaniagarwat&show_icons=true&theme=tokyonight)  
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaniagrawat&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniagrawat&layout=compact&theme=tokyonight)  
 
 ---
