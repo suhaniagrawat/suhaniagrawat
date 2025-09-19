@@ -9,7 +9,6 @@ I enjoy solving real-world problems with code, exploring new technologies, and w
 
 I have experience in:  
 - **Backend Development** – REST APIs, authentication, and databases  
-- **Frontend Development** – clean and intuitive UI/UX with React & modern frameworks  
 - **Problem Solving** – competitive programming and data structures & algorithms  
 - **Research & Projects** – exploring AI, data science, and system-level programming  
 
